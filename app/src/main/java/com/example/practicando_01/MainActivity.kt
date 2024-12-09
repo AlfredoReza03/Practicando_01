@@ -61,6 +61,10 @@ fun AlumnoScreen() {
         ElevatedButton(modifier = Modifier.padding(10.dp)) {
             Text(text = "Hola")
         }
+
+        ElevatedButton(modifier = Modifier.padding(10.dp)) {
+            Text(text = "Hola")
+        }
         }
 }
 
